@@ -1,18 +1,18 @@
 # Data Biography
 
-## Student Number: XXXXXXX
+## Student Number: 20158115
 
 ---
 
 ### 1. Who collected the data?
 
-_Your answer here_
+_The data comes from Airbnb url by online web-scraping from and is subsequently converted into structured data form (csv file in this case), by data engineers._
 
 ---
 
 ### 2. Why did they collect it?
 
-_Your answer here_
+_There can be multiple use cases for the collected data, e.g. predicting the price of Airbnb properties, monitoring the performance of Airbnb offerings, studying the pricing trend of local housing market, and tracking ownership portfolio and pricing strategy of individual owners (super host vs. ordinary host)._
 
 ---
 
